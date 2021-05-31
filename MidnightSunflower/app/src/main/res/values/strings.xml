@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Midnight Sunflower</string>
+    <string name="midnight_sunflower">Midnight Sunflower</string>
+    <string name="next">Next</string>
+    <string name="foreword">Foreword</string>
+    <string name="poems_dedicated_nto_nature">Poems dedicated<br />to Nature</string>
+    <string name="nostalgia">Nostalgia</string>
+    <string name="i_have_perceived_n_so_many_things">I have perceived<br />so many things</string>
+    <string name="poems_about_love">Poems about love</string>
+    <string name="stories">Stories</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="font_size">Font Size:</string>
+    <string name="_15">15</string>
+    <string name="_20">20</string>
+    <string name="_25">25</string>
+    <string name="about">About</string>
+    <string name="back_to_book">Back To Book</string>
+    <string name="body">Body</string>
+</resources>
